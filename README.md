@@ -1,5 +1,5 @@
 # pulse
-[![GoDoc](https://godocs.io/github.com/jfreymuth/pulse?status.svg)](https://godocs.io/github.com/jfreymuth/pulse)
+[![GoDoc](https://godocs.io/github.com/tionis/pulse.go?status.svg)](https://godocs.io/github.com/tionis/pulse.go)
 
 PulseAudio client implementation in pure Go.
 

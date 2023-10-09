@@ -1,6 +1,6 @@
 package pulse
 
-import "github.com/jfreymuth/pulse/proto"
+import "github.com/tionis/pulse.go/proto"
 
 // A Source is an input device.
 type Source struct {

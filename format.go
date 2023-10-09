@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	"github.com/jfreymuth/pulse/proto"
+	"github.com/tionis/pulse.go/proto"
 )
 
 // A Reader provides audio data in a specific format.

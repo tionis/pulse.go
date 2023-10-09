@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jfreymuth/pulse"
+	"github.com/tionis/pulse.go"
 )
 
 func main() {

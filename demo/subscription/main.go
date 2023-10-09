@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/jfreymuth/pulse/proto"
+	"github.com/tionis/pulse.go/proto"
 )
 
 func main() {

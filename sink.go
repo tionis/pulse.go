@@ -1,6 +1,6 @@
 package pulse
 
-import "github.com/jfreymuth/pulse/proto"
+import "github.com/tionis/pulse.go/proto"
 
 // A Sink is an output device.
 type Sink struct {
